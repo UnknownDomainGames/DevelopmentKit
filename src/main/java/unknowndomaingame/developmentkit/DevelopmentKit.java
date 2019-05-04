@@ -1,4 +1,4 @@
-package com.github.unknowndomaingame.developmentkit;
+package unknowndomaingame.developmentkit;
 
 import unknowndomain.engine.event.Listener;
 import unknowndomain.engine.event.game.GameEvent;
